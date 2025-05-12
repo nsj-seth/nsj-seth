@@ -1,5 +1,5 @@
-## Hi there 👋
-👋 Hello, I'm Seth Nortey Junior
+## Hi there, I'm Seth 👋
+
 
 I'm a passionate Full Stack Web Developer with experience in building web and mobile applications using technologies like HTML, CSS, JavaScript, Java, React, and React Native. I specialize in creating scalable, user-centric applications and have a growing interest in cybersecurity and DevSecOps.
 
